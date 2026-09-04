@@ -7,7 +7,7 @@ const btnExportar = document.getElementById("btnExportar");
 const erroVazio = document.getElementById("erroVazio");
 const temaIcon = btnTema.querySelector(".tema-icon");
 
-const API_URL = "https://chatbot-brigada-tg2b.onrender.com/chat";
+const API_URL = "https://chatbot-brigada-incendio-chpa.onrender.com/chat";
 let msgIdCounter = 1;
 
 const mensagemInicial =

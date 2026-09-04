@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot Brigada de Incêndio</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+
+  <!-- Animação de fogo no fundo -->
+  <div class="fire-bg">
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+    <div class="fire-particle"></div>
+  </div>
+
+  <main class="container">
+    <section class="chat-card">
+
+      <header class="chat-header">
+        <div class="header-content">
+          <div class="header-text">
+            <h1>🔥 Chatbot Brigada de Incêndio</h1>
+            <p>Assistente para dúvidas sobre segurança, prevenção e emergência em empresas</p>
+          </div>
+          <button id="btnTema" class="btn-tema" title="Alternar tema">
+            <span class="tema-icon">🌙</span>
+          </button>
+        </div>
+      </header>
+
+      <section id="chat" class="chat-box">
+        <div class="message bot" data-id="0">
+          <div class="msg-content">
+            Olá! Sou um assistente especializado em Brigada de Incêndio em Empresas. Posso ajudar com dúvidas sobre prevenção, evacuação, extintores, classes de incêndio e procedimentos básicos de emergência.
+          </div>
+          <div class="msg-actions">
+            <button class="btn-copiar" title="Copiar resposta">📋 Copiar</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="input-area">
+        <div class="textarea-wrap">
+          <textarea
+            id="mensagem"
+            placeholder="Digite sua pergunta sobre brigada de incêndio..."
+            rows="3"
+          ></textarea>
+          <span id="erroVazio" class="erro-vazio">Digite uma mensagem antes de enviar.</span>
+        </div>
+
+        <div class="buttons">
+          <div class="btn-group-left">
+            <button id="btnExportar" class="btn-exportar" title="Exportar conversa em PDF">
+              📄 Exportar PDF
+            </button>
+          </div>
+          <div class="btn-group-right">
+            <button id="btnLimpar" class="secondary">🗑️ Limpar</button>
+            <button id="btnEnviar">➤ Enviar</button>
+          </div>
+        </div>
+      </section>
+
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

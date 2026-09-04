@@ -1,0 +1,57 @@
+O extintor de classe A é destinado ao combate de incêndios que envolvem materiais combustíveis sólidos, como:
+
+- **Madeira, papel, papelão e tecidos**
+- **Plásticos e borrachas que queimam como materiais sólidos**
+- **Materiais de construção (cimento, gesso, etc.) que podem pegar fogo**
+
+Esses combustíveis geram chamas que produzem brasas e resíduos carbonizados. O agente extintor da classe A age principalmente **resfriando o ponto de ignição** do material e/ou **formando uma camada de espuma** que impede a oxigenação da chama.
+
+### Principais agentes utilizados em extintores classe A
+
+| Tipo de agente | Como funciona | Exemplos de uso |
+|----------------|---------------|-----------------|
+| **Água pressurizada** | Resfria rapidamente o combustível, reduzindo a temperatura abaixo do ponto de ignição. | Pequenos incêndios em escritórios, salas de reunião, áreas de armazenamento de papel. |
+| **Espuma (espuma AFFF ou FFFP)** | Forma uma camada isolante que impede a entrada de oxigênio e também resfria o material. | Incêndios em áreas com risco de derramamento de líquidos inflamáveis leves (classe B) que também contenham materiais sólidos. |
+| **Pó químico seco (ABC)** | O pó cobre o combustível, interrompendo a reação química da combustão e também tem efeito de resfriamento. | Versátil, usado em ambientes onde pode haver mistura de classes A, B e C (ex.: áreas industriais com equipamentos elétricos). |
+
+### Quando escolher um extintor classe A
+
+- **Ambientes predominantemente com materiais sólidos combustíveis** (escritórios, escolas, lojas de roupas, arquivos).
+- **Locais onde a água pode ser usada sem risco de danificar equipamentos elétricos ou eletrônicos sensíveis**. Caso haja risco de curto‑circuito, prefira espuma ou pó ABC.
+- **Para atender à exigência da NR‑23 (Norma Regulamentadora de Segurança contra Incêndio)**, que determina a presença de extintores adequados ao tipo de risco presente na área.
+
+### Manutenção e inspeção
+
+- **Verificar a pressão** (manômetro) regularmente; a agulha deve estar na zona verde.
+- **Checar a validade** do agente extintor (geralmente 5 anos para água/espuma, 10 anos para pó, dependendo do fabricante).
+- **Realizar inspeções visuais** mensais e recargas ou substituições conforme a norma ABNT NBR 12693 (Inspeção e manutenção de extintores de incêndio).
+
+Em resumo, o extintor classe A é essencial para apagar incêndios que envolvem materiais sólidos, atuando principalmente por resfriamento e isolamento da chama. Caso precise de orientações sobre dimensionamento, localização ou treinamento da Brigada de Incêndio para uso desses equipamentos, estou à disposição!O extintor de classe A é destinado ao combate de incêndios que envolvem materiais combustíveis sólidos, como:
+
+- **Madeira, papel, papelão e tecidos**
+- **Plásticos e borrachas que queimam como materiais sólidos**
+- **Materiais de construção (cimento, gesso, etc.) que podem pegar fogo**
+
+Esses combustíveis geram chamas que produzem brasas e resíduos carbonizados. O agente extintor da classe A age principalmente **resfriando o ponto de ignição** do material e/ou **formando uma camada de espuma** que impede a oxigenação da chama.
+
+### Principais agentes utilizados em extintores classe A
+
+| Tipo de agente | Como funciona | Exemplos de uso |
+|----------------|---------------|-----------------|
+| **Água pressurizada** | Resfria rapidamente o combustível, reduzindo a temperatura abaixo do ponto de ignição. | Pequenos incêndios em escritórios, salas de reunião, áreas de armazenamento de papel. |
+| **Espuma (espuma AFFF ou FFFP)** | Forma uma camada isolante que impede a entrada de oxigênio e também resfria o material. | Incêndios em áreas com risco de derramamento de líquidos inflamáveis leves (classe B) que também contenham materiais sólidos. |
+| **Pó químico seco (ABC)** | O pó cobre o combustível, interrompendo a reação química da combustão e também tem efeito de resfriamento. | Versátil, usado em ambientes onde pode haver mistura de classes A, B e C (ex.: áreas industriais com equipamentos elétricos). |
+
+### Quando escolher um extintor classe A
+
+- **Ambientes predominantemente com materiais sólidos combustíveis** (escritórios, escolas, lojas de roupas, arquivos).
+- **Locais onde a água pode ser usada sem risco de danificar equipamentos elétricos ou eletrônicos sensíveis**. Caso haja risco de curto‑circuito, prefira espuma ou pó ABC.
+- **Para atender à exigência da NR‑23 (Norma Regulamentadora de Segurança contra Incêndio)**, que determina a presença de extintores adequados ao tipo de risco presente na área.
+
+### Manutenção e inspeção
+
+- **Verificar a pressão** (manômetro) regularmente; a agulha deve estar na zona verde.
+- **Checar a validade** do agente extintor (geralmente 5 anos para água/espuma, 10 anos para pó, dependendo do fabricante).
+- **Realizar inspeções visuais** mensais e recargas ou substituições conforme a norma ABNT NBR 12693 (Inspeção e manutenção de extintores de incêndio).
+
+Em resumo, o extintor classe A é essencial para apagar incêndios que envolvem materiais sólidos, atuando principalmente por resfriamento e isolamento da chama. Caso precise de orientações sobre dimensionamento, localização ou treinamento da Brigada de Incêndio para uso desses equipamentos, estou à disposição!
